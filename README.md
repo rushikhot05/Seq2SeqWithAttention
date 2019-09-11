@@ -1,1 +1,3 @@
 # Seq2SeqWithAttention
+
+It is machine translation from spanish to English using seq2seq model with attention.
